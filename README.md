@@ -28,7 +28,7 @@ Find out more about me & what I've been doing:
 ### :zap: Github Stats
 <p>
     <a href="https://gitstats.me/caroldelwing" target="_blank"> 
-        <img src="https://github-readme-stats.vercel.app/api?username=caroldelwing&&show_icons=true&hi&theme=dark&count_private=true&include_all_commits=true">
+        <img src="https://github-readme-stats.vercel.app/api?username=caroldelwing&&show_icons=true&hi&theme=merko&count_private=true&include_all_commits=true">
     </a>
 </p>
 
