@@ -26,9 +26,9 @@ Find out more about me & what I've been doing:
 </div>
 
 ### :zap: Github Stats
-![Carol Delwing's GitHub stats](https://github-readme-stats.vercel.app/api?username=caroldelwing&show_icons=true&theme=radical)
+![Carol Delwing's GitHub stats](https://github-readme-stats.vercel.app/api?username=caroldelwing&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=caroldelwing&layout=compact&langs_count=7&theme=radical)](https://github.com/caroldelwing/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=caroldelwing&layout=compact&langs_count=7&theme=dracula)](https://github.com/caroldelwing/github-readme-stats)
 
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=caroldelwing%2Fcaroldelwing&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=caroldelwing%2Fcaroldelwing)
