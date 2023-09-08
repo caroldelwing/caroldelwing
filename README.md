@@ -1,11 +1,11 @@
 ### Hey there :whale:
 
-I'm an engineer and tech enthusiast. Just moved to a new country, and I took this opportunity to do something I've been dreaming about for a long time: studying in-depth programming, DevOps and Cloud. The journey has been full of new challenges, and I'm really excited about it. 
+I'm an engineer and tech enthusiast on a forever-learning DevOps journey. 
 
 Find out more about me & what I've been doing:
 
-- 🌱 Learning all about **DevOps** and **Cloud**
-- 🔭 I’m currently studying several languages and frameworks
+- 🌱 Learning all things **DevOps** and **Cloud**
+- 🔭 I’m currently studying Python and Go
 - 💬 Ping me about **DevOps**, **Python**, **AWS**, **Kubernetes**, **Docker**, **AI**
 - :wink: Let's talk! Reach me [here][linkedin] or at caroldelwing@gmail.com
 - :national_park: Fun fact: I'm a nature and hike lover
